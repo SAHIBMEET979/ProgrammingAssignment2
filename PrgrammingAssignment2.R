@@ -33,3 +33,6 @@ cacheSolve <- function(x, ...) {
   x$setInverse(inv)
   inv      
 }
+
+
+SHA-1 hash.
